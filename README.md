@@ -3,7 +3,7 @@ small script to keep track of and manage pacman packages
 
 ## about this script
 
-current version: 1.0.4
+current version: 1.0.5
 
 ### ⚠️ disclaimer: use at your own risk, there won't be anyone saving you from either my or your own failures.
 
